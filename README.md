@@ -19,5 +19,6 @@ The dataset contains medical attributes related to heart disease prediction, whe
 - Decision Tree  
 
 ## Final Result
-**Logistic Regression** achieved the best overall performance among the evaluated classifiers.
+**Logistic Regression** achieved the best overall performance among the evaluated classifiers, with an accuracy of approximately **85%** on the test set.
+
 
